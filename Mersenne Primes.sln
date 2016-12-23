@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mersenne Primes", "Mersenne Primes\Mersenne Primes.vcxproj", "{E1AF5043-7BA4-455A-8704-509A870E77FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1AF5043-7BA4-455A-8704-509A870E77FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1AF5043-7BA4-455A-8704-509A870E77FC}.Debug|Win32.Build.0 = Debug|Win32
+		{E1AF5043-7BA4-455A-8704-509A870E77FC}.Release|Win32.ActiveCfg = Release|Win32
+		{E1AF5043-7BA4-455A-8704-509A870E77FC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
